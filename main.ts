@@ -7,3 +7,7 @@ let multiply=(a:number,b:number)=>{
 
 
 console.log(multiply(2,3));
+
+
+let op="pk";
+console.log(op);
