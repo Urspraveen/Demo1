@@ -1,2 +1,2 @@
 # Demo1
-basics of
+basics of GIT commands
